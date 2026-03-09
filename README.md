@@ -1,2 +1,2 @@
 # 1-Reposit-rio
-Primeiro Repositório Sptech
+Primeiro Repositório  de leonardo na SptechSchool
